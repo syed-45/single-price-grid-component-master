@@ -1,0 +1,96 @@
+body {    
+    max-width: 1440px;    
+    min-width: 325px;  
+    min-height: 100vh;
+    margin: 0 auto;
+    position: relative;
+    font-family: "Karla", sans-serif;
+    font-size: 16px;
+  }
+
+  .single-price-grid{
+    border-radius: 7px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    width: 650px;
+    overflow: auto;
+    position: absolute; top: 50%; left: 50%;
+    transform: translate(-50%,-50%);
+    /* margin-left: -325px; margin-top: -325px; */
+    display: flex;
+    flex-flow: row wrap;      
+  }
+
+  .single-price-grid-top {
+    padding: 40px;
+    color: hsl(218, 22%, 67%);
+    width: max-content;      
+  }
+
+  .single-price-grid-top > h3 {
+    color: hsl(179, 62%, 43%);         
+  }
+  
+  .single-price-grid-top > p {
+    margin-bottom: 2px;
+  }
+
+  .single-price-grid-top > :nth-child(2) {
+    color:hsl(71, 73%, 54%);
+    margin-top: 35px;
+  }
+
+  .single-price-grid-bottom {
+    color: white;
+    width: 325px;
+    padding: 40px;      
+    box-sizing: border-box;
+  }
+
+  .single-price-grid-bottom h3 {
+    margin-bottom: 29px;
+  }
+
+  .single-price-grid > :nth-child(2) {
+    background-color: #2bb3b1;
+  }
+
+  .single-price-grid > :nth-child(3) {
+    background-color: #4abebd;    
+  }
+
+  .single-price-grid > :nth-child(3) p {
+    line-height: 0.6;
+  }
+
+  #monthly_rate {
+    font-weight: 700;
+    font-size: 42px;
+  }
+
+  .rate-per-month-parent {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-weight: 10;
+  }
+  
+  #signup_btn {
+    border-radius: 5px;
+    background-color:hsl(71, 73%, 54%);
+    box-shadow: 0px 1px 1px 0px grey;
+    border-style: none;
+    text-align: center;
+    color: white;
+    font-weight: 700;
+    font-size: 16px;    
+    height: 50px;
+    width: 100%;
+    margin-top: 17px;
+  }
+
+  footer {
+    position: absolute;
+    bottom: 0px;
+  }
+
+  
