@@ -11,7 +11,7 @@ body {
   .single-price-grid{
     border-radius: 7px;
     box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
-    width: 650px;
+    width: 700px;
     overflow: auto;
     position: absolute; top: 50%; left: 50%;
     transform: translate(-50%,-50%);
@@ -93,7 +93,7 @@ body {
     bottom: 0px;
   }
 
-  @media only screen and (max-width: 650px) {
+  @media only screen and (max-width: 700px) {
     .single-price-grid {
       width: 80%;
       margin-top: 0;      
