@@ -49,7 +49,7 @@ Users should be able to:
 
 Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
-- Don't use <br>, better to use margin-bottom/margin-top
+- Don't use `<br>`, better to use margin-bottom/margin-top
 - Use margin: 0 auto with position: static to achieve horizontal centering
 - Min-height/width dosen't allow elements to be smaller than specified
 - Need to include 'sans'/'sans serif' after font in font family if using google fonts
