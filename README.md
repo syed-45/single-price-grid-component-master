@@ -13,7 +13,6 @@ This is a solution to the [Single price grid component challenge on Frontend Men
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)  
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -30,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+<!--- Solution URL: [Add solution URL here](https://your-solution-url.com) --->
+- Live Site URL: https://single-price-grid-comp-syed.netlify.app/
 
 ## My process
 
@@ -47,7 +46,6 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
 - Don't use `<br>`, better to use margin-bottom/margin-top
 - Use margin: 0 auto with position: static to achieve horizontal centering
